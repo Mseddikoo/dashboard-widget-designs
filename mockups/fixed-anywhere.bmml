@@ -1,0 +1,159 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1062" measuredH="910" mockupW="1052" mockupH="900">
+  <controls>
+    <control controlID="86" controlTypeID="__group__" x="837" y="19" w="225" h="373" measuredW="225" measuredH="373" zOrder="1" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::FieldSet" x="0" y="0" w="225" h="373" measuredW="200" measuredH="170" zOrder="0" locked="false" isInGroup="86">
+          <controlProperties>
+            <text>Legend</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="15" y="24" w="46" h="22" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="86">
+          <controlProperties>
+            <borderColor>2848996</borderColor>
+            <borderStyle>roundedDotted</borderStyle>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="74" y="24" w="136" h="-1" measuredW="134" measuredH="21" zOrder="2" locked="false" isInGroup="86">
+          <controlProperties>
+            <text>Primefaces%20Dashboard</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Canvas" x="15" y="60" w="46" h="22" measuredW="100" measuredH="70" zOrder="3" locked="false" isInGroup="86">
+          <controlProperties>
+            <borderColor>16750848</borderColor>
+            <borderStyle>roundedDotted</borderStyle>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="74" y="60" w="126" h="-1" measuredW="112" measuredH="21" zOrder="4" locked="false" isInGroup="86">
+          <controlProperties>
+            <text>Dashboard%20Column</text>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::TitleWindow" x="15" y="186" w="185" h="80" measuredW="450" measuredH="400" zOrder="5" locked="false" isInGroup="86">
+          <controlProperties>
+            <bottomheight>0</bottomheight>
+            <close>false</close>
+            <dragger>false</dragger>
+            <text>Movable%20Widget</text>
+            <topheight>26</topheight>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::TitleWindow" x="15" y="275" w="185" h="80" measuredW="450" measuredH="400" zOrder="6" locked="false" isInGroup="86">
+          <controlProperties>
+            <bottomheight>0</bottomheight>
+            <close>true</close>
+            <dragger>false</dragger>
+            <text>Closable%20Widget</text>
+            <topheight>26</topheight>
+          </controlProperties>
+        </control>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::TextArea" x="15" y="97" w="185" h="80" measuredW="200" measuredH="140" zOrder="7" locked="false" isInGroup="86">
+          <controlProperties>
+            <text>Fixed%20Widget</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="88" controlTypeID="com.balsamiq.mockups::Canvas" x="409" y="143" w="346" h="616" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.75</backgroundAlpha>
+        <borderColor>16777215</borderColor>
+      </controlProperties>
+    </control>
+    <control controlID="101" controlTypeID="__group__" x="10" y="10" w="800" h="900" measuredW="800" measuredH="900" zOrder="0" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="0" y="0" w="800" h="900" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="101">
+          <controlProperties>
+            <text>Dashboard%20-%20Enveritus%0Ahttp%3A//envisagesystems.com/enveritus/dashboard.xhtml</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::MenuBar" x="58" y="84" w="673" h="29" measuredW="454" measuredH="29" zOrder="1" locked="false" isInGroup="101">
+          <controlProperties>
+            <text>enveritus%20%20%20%20%20%7C%2C%20Dashbaord%20%20%20%20%20%7C%2C%20Transactions%20%20%20%20%20%7C%2C%20Account%20Settings</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::TitleWindow" x="58" y="146" w="315" h="116" measuredW="450" measuredH="400" zOrder="2" locked="false" isInGroup="101">
+          <controlProperties>
+            <bottomheight>0</bottomheight>
+            <text>Widget%201</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::TitleWindow" x="416" y="146" w="315" h="167" measuredW="450" measuredH="400" zOrder="3" locked="false" isInGroup="101">
+          <controlProperties>
+            <bottomheight>0</bottomheight>
+            <text>Widget%202</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::TitleWindow" x="416" y="349" w="315" h="182" measuredW="450" measuredH="400" zOrder="4" locked="false" isInGroup="101">
+          <controlProperties>
+            <bottomheight>0</bottomheight>
+            <close>true</close>
+            <text>Widget%204</text>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::TitleWindow" x="58" y="457" w="315" h="278" measuredW="450" measuredH="400" zOrder="5" locked="false" isInGroup="101">
+          <controlProperties>
+            <bottomheight>0</bottomheight>
+            <close>true</close>
+            <text>Widget%20...</text>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::TitleWindow" x="416" y="570" w="315" h="165" measuredW="450" measuredH="400" zOrder="6" locked="false" isInGroup="101">
+          <controlProperties>
+            <bottomheight>0</bottomheight>
+            <close>true</close>
+            <text>Widget%20N</text>
+          </controlProperties>
+        </control>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::ModalScreen" x="0" y="779" w="800" h="92" measuredW="320" measuredH="240" zOrder="7" locked="false" isInGroup="101"/>
+        <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="58" y="811" w="-1" h="-1" measuredW="83" measuredH="28" zOrder="8" locked="false" isInGroup="101">
+          <controlProperties>
+            <color>16777215</color>
+            <size>20</size>
+            <text>Envisage</text>
+          </controlProperties>
+        </control>
+        <control controlID="9" controlTypeID="com.balsamiq.mockups::LinkBar" x="319" y="816" w="-1" h="-1" measuredW="162" measuredH="19" zOrder="9" locked="false" isInGroup="101">
+          <controlProperties>
+            <borderColor>14540253</borderColor>
+            <color>16777215</color>
+            <text>About%2CPrivacy%2CContact</text>
+          </controlProperties>
+        </control>
+        <control controlID="10" controlTypeID="com.balsamiq.mockups::TextArea" x="58" y="298" w="315" h="116" measuredW="200" measuredH="140" zOrder="10" locked="false" isInGroup="101">
+          <controlProperties>
+            <text>Widget%203</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="102" controlTypeID="com.balsamiq.mockups::Canvas" x="50" y="134" w="359" h="165" measuredW="100" measuredH="70" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0</backgroundAlpha>
+        <borderColor>2848996</borderColor>
+        <borderStyle>roundedDotted</borderStyle>
+      </controlProperties>
+    </control>
+    <control controlID="103" controlTypeID="com.balsamiq.mockups::Canvas" x="50" y="448" w="359" h="325" measuredW="100" measuredH="70" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0</backgroundAlpha>
+        <borderColor>2848996</borderColor>
+        <borderStyle>roundedDotted</borderStyle>
+      </controlProperties>
+    </control>
+    <control controlID="104" controlTypeID="com.balsamiq.mockups::Canvas" x="58" y="143" w="338" h="143" measuredW="100" measuredH="70" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0</backgroundAlpha>
+        <borderColor>16750848</borderColor>
+        <borderStyle>roundedDotted</borderStyle>
+      </controlProperties>
+    </control>
+    <control controlID="105" controlTypeID="com.balsamiq.mockups::Canvas" x="58" y="455" w="338" h="304" measuredW="100" measuredH="70" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0</backgroundAlpha>
+        <borderColor>16750848</borderColor>
+        <borderStyle>roundedDotted</borderStyle>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
